@@ -1,4 +1,4 @@
-# Sistema de Gestión Educativa (SIGME)
+# Sistema Integrado de Gestión Modular Educativo (SIGME)
 
 SIGME es una aplicación de escritorio diseñada para gestionar de manera eficiente los procesos administrativos y académicos de una institución educativa. 
 
